@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FedSystem">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <root id="archive" name="FedSystem.jar">
+      <element id="module-output" name="Fed.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>

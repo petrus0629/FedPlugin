@@ -1,0 +1,9 @@
+name: Fed
+version: '${version}'
+main: org.example.kot.fed.Fed
+api-version: '1.19'
+
+commands:
+  중앙은행:
+    발행:
+    description: 실행명령어
